@@ -1,0 +1,33 @@
+
+.type{
+    width: 100%;
+    align-content: center;
+    background-color: #282c34;
+    
+    text-align: center;
+    font-family: "Roboto Slab ExtraLight";
+}
+
+.Cards{
+    background-color: grey;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    position: center;
+    box-shadow: inset 0 0 10px black;
+    child-align: middle;
+}
+.page-footer{
+    background-color: #282c34;
+}
+.footer-copyright{
+    color:white;
+    background-color: black;
+}
+.greet{
+    text-align: center;
+    background: rgb(191,193,203);
+background: radial-gradient(circle, rgba(191,193,203,1) 0%, rgba(42,49,64,1) 99%);
+    color: white;
+    padding: 10px;
+}
